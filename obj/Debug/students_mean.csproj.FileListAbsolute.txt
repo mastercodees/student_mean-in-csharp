@@ -1,0 +1,6 @@
+C:\Users\vladmir\RiderProjects\students_mean\students_mean\bin\Debug\students_mean.exe
+C:\Users\vladmir\RiderProjects\students_mean\students_mean\bin\Debug\students_mean.pdb
+C:\Users\vladmir\RiderProjects\students_mean\students_mean\obj\Debug\students_mean.csproj.AssemblyReference.cache
+C:\Users\vladmir\RiderProjects\students_mean\students_mean\obj\Debug\students_mean.csproj.CoreCompileInputs.cache
+C:\Users\vladmir\RiderProjects\students_mean\students_mean\obj\Debug\students_mean.exe
+C:\Users\vladmir\RiderProjects\students_mean\students_mean\obj\Debug\students_mean.pdb
